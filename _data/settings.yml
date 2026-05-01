@@ -4,6 +4,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
+- {name: 'Michael Yang', title: 'Professor', email: 'myy35@bath.ac.uk', image: 'assets/img/michael.jpg', url: 'michael-yang'}
 - {name: 'Davide Moltisanti', title: 'Lecturer', email: 'dm2460@bath.ac.uk', image: 'assets/img/davide.jpg', url: 'davide-moltisanti'}
 
 contacts:
