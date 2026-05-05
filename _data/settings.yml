@@ -5,7 +5,12 @@ menu:
 
 people:
 - {name: 'Michael Yang', title: 'Professor', email: 'myy35@bath.ac.uk', image: 'assets/img/michael.jpg', url: 'michael-yang'}
+- {name: 'Da Chen', title: 'Lecturer', email: 'dc598@bath.ac.uk', image: 'assets/img/chen.jpg', url: 'da-chen'}
 - {name: 'Davide Moltisanti', title: 'Lecturer', email: 'dm2460@bath.ac.uk', image: 'assets/img/davide.jpg', url: 'davide-moltisanti'}
+- {name: 'Jiahui Li', title: 'PhD student', email: 'jl4616@bath.ac.uk', image: 'assets/img/jiahui.jpg', url: 'jiahui-li'}
+- {name: 'Yunpeng Xiao', title: 'PhD student', email: 'yx2172@bath.ac.uk', image: 'assets/img/yunpeng.jpg', url: 'yunpeng-xiao'}
+- {name: 'Yudi Zhang', title: 'PhD student', email: 'yz4582@bath.ac.uk', image: 'assets/img/yudi.jpg', url: 'yudi-zhang'}
+- {name: 'Zilin Zhang', title: 'PhD student', email: 'zz2169@bath.ac.uk', image: 'assets/img/zilin.jpg', url: 'zilin-zhang'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {institution: 'University of Bath', institution_address: 'Department of Computer Science, 1 West, University of Bath, BA2 7AY, Bath, United Kingdom', email: 'vib-group@lists.bath.ac.uk', image: 'assets/img/qr_code.png'}

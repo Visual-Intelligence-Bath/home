@@ -1,11 +1,14 @@
 ---
-layout: page
+layout: person
 title: "Davide Moltisanti"
+photo: "davide.jpg"
 ---
 
 Lecturer
 
 Email: dm2460@bath.ac.uk
+
+[Website](https://www.davidemoltisanti.com/research){:target="_blank"}
 
 ---
 

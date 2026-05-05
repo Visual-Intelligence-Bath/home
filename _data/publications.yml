@@ -1,6 +1,11 @@
 featured:
 
-- {name: '[CVPR 26] ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos. Luigi Seminara, Davide Moltisanti, Antonino Furnari', url: 'https://arxiv.org/pdf/2603.04265'}
+- {venue: 'CVPR 26', title: 'ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos', authors: 'Luigi Seminara, Davide Moltisanti, Antonino Furnari', url: 'https://arxiv.org/pdf/2603.04265'}
 
 index:
-- {name: '[CVPR 26] ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos. Luigi Seminara, Davide Moltisanti, Antonino Furnari', url: 'https://arxiv.org/pdf/2603.04265'}
+
+- {venue: 'CVPR 26', title: 'ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos', authors: 'Luigi Seminara, Davide Moltisanti, Antonino Furnari', url: 'https://arxiv.org/pdf/2603.04265'}
+- {venue: 'CVPR 25', title: 'HD-EPIC: A Highly-Detailed Egocentric Video Dataset', authors: 'Toby Perrett, Ahmad Darkhalil, Saptarshi Sinha, Omar Emara, Sam Pollard, Kranti Parida, Kaiting Liu, Prajwal Gatti, Siddhant Bansal, Kevin Flanagan, Jacob Chalk, Zhifan Zhu, Rhodri Guerrier, Fahd Abdelazim, Bin Zhu, Davide Moltisanti, Michael Wray, Hazel Doughty, Dima Damen', url: 'https://arxiv.org/pdf/2502.04144'}
+- {venue: 'ACCV 24', title: 'Continual Learning Improves Zero-Shot Action Recognition', authors: 'Shreyank N. Gowda, Davide Moltisanti, Laura Sevilla-Lara', url: 'https://arxiv.org/pdf/2410.10497'}
+- {venue: 'ECCV 24', title: 'Efficient Pre-training for Localized Instruction Generation of Videos', authors: 'Anil Batra, Davide Moltisanti, Laura Sevilla-Lara, Marcus Rohrbach, Frank Keller', url: 'https://arxiv.org/pdf/2311.15964'}
+

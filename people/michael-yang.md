@@ -1,11 +1,14 @@
 ---
-layout: page
+layout: person
 title: "Michael Yang"
+photo: "michael.jpg"
 ---
 
 Professor
 
 Email: myy35@bath.ac.uk
+
+[Website](https://sites.google.com/site/michaelyingyang){:target="_blank"}
 
 ---
 
