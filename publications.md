@@ -1,5 +1,5 @@
 ---
 layout: publications
-title: "Publications"
+title: "Recent publications"
 ---
 

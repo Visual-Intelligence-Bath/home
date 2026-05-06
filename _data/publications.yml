@@ -1,11 +1,57 @@
 featured:
 
+- {venue: 'ICML 26', title: 'Interpretability Transfer from Language to Vision via Sparse Autoencoders', authors: 'Alexey Kravets, Da Li, Chuan Li, Da Chen, Vinay P. Namboodiri', url: 'https://icml.cc/virtual/2026/poster/61117'}
+- {venue: 'CVPR 26', title: 'Beyond Reassembly: Fractured Object Recovery with Missing Parts', authors: 'Qunce Xu, Jiahui Li, Yan-Pei Cao, Weihao Cheng, Tai-Jiang Mu, Ying Shan, Chuan Li, Da Chen, Yong-Liang Yang, Shi-min Hu', url: ''}
 - {venue: 'CVPR 26', title: 'ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos', authors: 'Luigi Seminara, Davide Moltisanti, Antonino Furnari', url: 'https://arxiv.org/pdf/2603.04265'}
+- {venue: 'CVPR 26', title: 'ST-VLO: Unified Spatio-Temporal Correlation for Visual-LiDAR Odometry with Temporal Drift Compensation', authors: 'Mengmeng Liu, Jiuming Liu, Michael Ying Yang, Chaokang Jiang, Jiangtao Li, Yunpeng Zhang, Hesheng Wang, Francesco Nex, Hao Cheng', url: 'https://openreview.net/pdf?id=XwFXJ38jET'}
+- {venue: 'ICLR 26', title: 'Query-Guided Spatial-Temporal-Frequency Interaction for Music Audio-Visual Question Answering', authors: 'Kun Li, Michael Ying Yang, Sami Sebastian Brandt', url: 'https://arxiv.org/abs/2601.19821'}
+- {venue: 'ICLR 26', title: 'ARFlow: Auto-regressive Optical Flow Estimation for Arbitrary-Length Videos via Progressive Next-Frame Forecasting', authors: 'Jiuming Liu, Mengmeng Liu, Siting Zhu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng, Hesheng Wang', url: 'https://openreview.net/pdf?id=iJ7cyttpVj'}
+- {venue: 'ICLR 26', title: 'ExPO-HM: Learning to Explain-then-Detect for Hateful Meme Detection', authors: 'Jingbiao Mei, Mingsheng Sun, Jinghong Chen, Pengda Qin, Yuhong Li, Da Chen, Bill Byrne', url: 'https://arxiv.org/pdf/2510.08630'}
+- {venue: 'TPAMI 26', title: 'SPAN: Learning Similarity between Scene Graphs and Images with Transformers', authors: 'Yuren Cong, Wentong Liao, Bodo Rosenhahn, Michael Ying Yang', url: 'https://arxiv.org/abs/2304.00590'}
+- {venue: 'TPAMI 26', title: 'Planner3D: LLM-enhanced Graph Prior Meets 3D Indoor Scene Explicit Regularization', authors: 'Yao Wei, Martin Renqiang Min, George Vosselman, Li Erran Li, Michael Ying Yang', url: 'https://arxiv.org/abs/2403.12848'}
+- {venue: 'Eurographics 26', title: 'StyleYourSmile: Diffusion-Driven One Shot Cross-Domain Retargeting for Portraits', authors: 'Avirup Dey, Vinay Namboodiri', url: 'https://diglib.eg.org/handle/10.2312/egs20261004'}
 
 index:
 
+- {venue: 'ICML 26', title: 'Interpretability Transfer from Language to Vision via Sparse Autoencoders', authors: 'Alexey Kravets, Da Li, Chuan Li, Da Chen, Vinay P. Namboodiri', url: 'https://icml.cc/virtual/2026/poster/61117'}
+- {venue: 'ICLR 26', title: 'Query-Guided Spatial-Temporal-Frequency Interaction for Music Audio-Visual Question Answering', authors: 'Kun Li, Michael Ying Yang, Sami Sebastian Brandt', url: 'https://arxiv.org/abs/2601.19821'}
+- {venue: 'ICLR 26', title: 'ARFlow: Auto-regressive Optical Flow Estimation for Arbitrary-Length Videos via Progressive Next-Frame Forecasting', authors: 'Jiuming Liu, Mengmeng Liu, Siting Zhu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng, Hesheng Wang', url: 'https://openreview.net/pdf?id=iJ7cyttpVj'}
+- {venue: 'ICLR 26', title: 'ExPO-HM: Learning to Explain-then-Detect for Hateful Meme Detection', authors: 'Jingbiao Mei, Mingsheng Sun, Jinghong Chen, Pengda Qin, Yuhong Li, Da Chen, Bill Byrne', url: 'https://arxiv.org/pdf/2510.08630'}
+- {venue: 'TPAMI 26', title: 'SPAN: Learning Similarity between Scene Graphs and Images with Transformers', authors: 'Yuren Cong, Wentong Liao, Bodo Rosenhahn, Michael Ying Yang', url: 'https://arxiv.org/abs/2304.00590'}
+- {venue: 'TPAMI 26', title: 'Planner3D: LLM-enhanced Graph Prior Meets 3D Indoor Scene Explicit Regularization', authors: 'Yao Wei, Martin Renqiang Min, George Vosselman, Li Erran Li, Michael Ying Yang', url: 'https://arxiv.org/abs/2403.12848'}
+- {venue: 'CVPR 26', title: 'Beyond Reassembly: Fractured Object Recovery with Missing Parts', authors: 'Qunce Xu, Jiahui Li, Yan-Pei Cao, Weihao Cheng, Tai-Jiang Mu, Ying Shan, Chuan Li, Da Chen, Yong-Liang Yang, Shi-min Hu', url: ''}
 - {venue: 'CVPR 26', title: 'ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos', authors: 'Luigi Seminara, Davide Moltisanti, Antonino Furnari', url: 'https://arxiv.org/pdf/2603.04265'}
+- {venue: 'CVPR 26', title: 'ST-VLO: Unified Spatio-Temporal Correlation for Visual-LiDAR Odometry with Temporal Drift Compensation', authors: 'Mengmeng Liu, Jiuming Liu, Michael Ying Yang, Chaokang Jiang, Jiangtao Li, Yunpeng Zhang, Hesheng Wang, Francesco Nex, Hao Cheng', url: 'https://openreview.net/pdf?id=XwFXJ38jET'}
+- {venue: 'CVPR 26 Workshops', title: 'Enhancing Spatial Understanding in Vision-Language Segmentation via Diffusion-Based Pipelines.', authors: 'Filippo Santiano, Zejun Zhang, Deblina Bhattacharjee', url: ''}
+- {venue: 'CVPR 26 Workshops', title: 'Attention-Enhanced Multi-ControlNet for Artist-Aligned Manga Background Generation.', authors: 'Louis King, Deblina Bhattacharjee', url: ''}
+- {venue: 'Eurographics 26', title: 'StyleYourSmile: Diffusion-Driven One Shot Cross-Domain Retargeting for Portraits', authors: 'Avirup Dey, Vinay Namboodiri', url: 'https://diglib.eg.org/handle/10.2312/egs20261004'}
+- {venue: 'arXiv 26', title: 'Learning Disease-Sensitive Latent Interaction Graphs From Noisy Cardiac Flow Measurements.', authors: 'Viraj Patel, Marko Grujic, Philipp Aigner, Theodor Abart, Marcus Granegger, Deblina Bhattacharjee, Katharine Fraser', url: 'https://arxiv.org/abs/2602.23035'}
+- {venue: 'AAAI 26', title: '4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectification for High-Quality and Consistent 4D Generation', authors: 'Mengmeng Liu, Jiuming Liu, Yunpeng Zhang, Jiangtao Li, Michael Ying Yang, Francesco Nex, Hao Cheng', url: 'https://arxiv.org/abs/2511.07241'}
+- {venue: 'IJCV 25', title: 'Attribute-Centric Compositional Text-to-Image Generation', authors: 'Yuren Cong, Martin Renqiang Min, Li Erran Li, Bodo Rosenhahn, Michael Ying Yang', url: 'https://link.springer.com/article/10.1007/s11263-025-02371-0'}
 - {venue: 'CVPR 25', title: 'HD-EPIC: A Highly-Detailed Egocentric Video Dataset', authors: 'Toby Perrett, Ahmad Darkhalil, Saptarshi Sinha, Omar Emara, Sam Pollard, Kranti Parida, Kaiting Liu, Prajwal Gatti, Siddhant Bansal, Kevin Flanagan, Jacob Chalk, Zhifan Zhu, Rhodri Guerrier, Fahd Abdelazim, Bin Zhu, Davide Moltisanti, Michael Wray, Hazel Doughty, Dima Damen', url: 'https://arxiv.org/pdf/2502.04144'}
+- {venue: 'ICCV 25', title: 'Rethinking Few Shot CLIP Benchmarks: A Critical Analysis in the Inductive Setting', authors: 'Alexey Kravets, Da Chen, Vinay P. Namboodiri', url: 'https://openaccess.thecvf.com/content/ICCV2025/papers/Kravets_Rethinking_Few_Shot_CLIP_Benchmarks_A_Critical_Analysis_in_the_ICCV_2025_paper.pdf'}
+- {venue: 'ACL 25', title: 'Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models', authors: 'O. Loginova, O. Bezrukov, Ravi Shekhar, Alexey Kravets', url: 'https://aclanthology.org/2025.acl-long.162.pdf'}
+- {venue: 'ACL 25 Findings', title: 'ShieldHead: Decoding-time Safeguard for Large Language Models', authors: 'Zitao Xuan, Xiaofeng Mao, Da Chen, Xin Zhang, Yuhan Dong, Jun Zhou', url: 'https://aclanthology.org/2025.findings-acl.932.pdf'}
+- {venue: 'WACV 25', title: 'Zero-Shot Class Unlearning in CLIP with Synthetic Samples', authors: 'Alexey Kravets, Vinay P. Namboodiri', url: 'https://openaccess.thecvf.com/content/WACV2025/papers/Kravets_Zero-Shot_Class_Unlearning_in_CLIP_with_Synthetic_Samples_WACV_2025_paper.pdf'}
+- {venue: 'TMLR 25', title: 'Zero-shot CLIP class forgetting via text-image space adaptation', authors: 'Alexey Kravets, Vinay P. Namboodiri', url: 'https://openreview.net/forum?id=V2SD2uVKEE'}
+- {venue: 'ICRA 25', title: 'DVLO4D: Deep Visual-Lidar Odometry with Sparse Spatial-temporal Fusion', authors: 'Mengmeng Liu, Michael Ying Yang, Jiuming Liu, Yunpeng Zhang, Jiangtao Li, Sander Oude Elberink, George Vosselman, Hao Cheng', url: 'https://arxiv.org/abs/2509.06023'}
+- {venue: 'arXiv 25', title: 'WiCV at CVPR 2025: The Women in Computer Vision Workshop.', authors: 'Estefania Talavera, Deblina Bhattacharjee, Himangi Mittal, Mengwei Ren, Karen Sanchez, Carla Muntean, JungEun Kim, Mona Jalal', url: 'https://arxiv.org/abs/2511.08748'}
+- {venue: 'arXiv 24', title: 'WiCV@CVPR2024: The Thirteenth Women In Computer Vision Workshop at the Annual CVPR Conference.', authors: 'Asra Aslam, Sachini Herath, Ziqi Huang, Estefania Talavera, Deblina Bhattacharjee, Himangi Mittal, Vanessa Staderini, Mengwei Ren, Azade Farshad', url: 'https://arxiv.org/abs/2411.02445'}
 - {venue: 'ACCV 24', title: 'Continual Learning Improves Zero-Shot Action Recognition', authors: 'Shreyank N. Gowda, Davide Moltisanti, Laura Sevilla-Lara', url: 'https://arxiv.org/pdf/2410.10497'}
 - {venue: 'ECCV 24', title: 'Efficient Pre-training for Localized Instruction Generation of Videos', authors: 'Anil Batra, Davide Moltisanti, Laura Sevilla-Lara, Marcus Rohrbach, Frank Keller', url: 'https://arxiv.org/pdf/2311.15964'}
+- {venue: 'ECCV 24', title: 'Unlocking Comics: The AI4VA Dataset for Visual Understanding.', authors: 'Peter Grönquist, Deblina Bhattacharjee, Bahar Aydemir, Baran Ozaydin, Tong Zhang, Mathieu Salzmann, Sabine Süsstrunk', url: 'https://arxiv.org/abs/2410.20459'}
+- {venue: 'ECCV 24', title: 'Data Augmentation via Latent Diffusion for Saliency Prediction.', authors: 'Bahar Aydemir, Deblina Bhattacharjee, Tong Zhang, Mathieu Salzmann, Sabine Süsstrunk', url: 'https://arxiv.org/abs/2409.07307'}
+- {venue: 'ECCV 24', title: 'CoDA: Instructive Chain-of-Domain Adaptation with Severity-Aware Visual Prompt Tuning.', authors: 'Ziyang Gong, Fuhao Li, Yupeng Deng, Deblina Bhattacharjee, Xianzheng Ma, Xiangwei Zhu, Zhenming Ji', url: 'https://arxiv.org/abs/2403.17369'}
+- {venue: 'arXiv 24', title: 'OMH: Structured Sparsity via Optimally Matched Hierarchy for Unsupervised Semantic Segmentation.', authors: 'Baran Ozaydin, Tong Zhang, Deblina Bhattacharjee, Sabine Süsstrunk, Mathieu Salzmann', url: 'https://arxiv.org/abs/2403.06546'}
+- {venue: 'BMVC 24', title: 'CLIP Adaptation by Intra-modal Overlap Reduction', authors: 'Alexey Kravets, Vinay P. Namboodiri', url: 'https://bmva-archive.org.uk/bmvc/2024/papers/Paper_12/paper.pdf'}
+- {venue: 'TPAMI 24', title: 'Robust Shape Fitting for 3D Scene Abstraction', authors: 'Florian Kluger, Eric Brachmann, Michael Ying Yang, Bodo Rosenhahn', url: 'https://arxiv.org/abs/2403.10452'}
+- {venue: 'ACM TEI 24', title: 'Pic2tac: Creating accessible tactile images using semantic information from photographs', authors: 'Karolina Pakenaite, Eirini Kamperou, Michael J Proulx, Adwait Sharma, Peter Hall', url: 'https://dl.acm.org/doi/10.1145/3623509.3633377'}
+
+
+
+
+
+
+
+
 
