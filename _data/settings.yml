@@ -7,12 +7,14 @@ people:
 - {name: 'Michael Yang', title: 'Professor', email: 'myy35@bath.ac.uk', image: 'assets/img/michael.jpg', url: 'michael-yang'}
 - {name: 'Peter Hall', title: 'Professor', email: 'maspmh@bath.ac.uk', image: 'assets/img/peter.jpg', url: 'peter-hall'}
 - {name: 'Neill Campbell', title: 'Professor', email: 'nc537@bath.ac.uk', image: 'assets/img/neill.jpg', url: 'neill-campbell'}
+- {name: 'Tom S. F. Haines', title: 'Senior Lecturer', email: 'tsfh20@bath.ac.uk', image: 'assets/img/tom.jpg', url: 'tom-haines'}
 - {name: 'Deblina Bhattacharjee', title: 'Lecturer', email: 'db2466@bath.ac.uk', image: 'assets/img/deblina.jpg', url: 'deblina-bhattacharjee'}
 - {name: 'Da Chen', title: 'Lecturer', email: 'dc598@bath.ac.uk', image: 'assets/img/chen.jpg', url: 'da-chen'}
 - {name: 'Davide Moltisanti', title: 'Lecturer', email: 'dm2460@bath.ac.uk', image: 'assets/img/davide.jpg', url: 'davide-moltisanti'}
 - {name: 'Avirup Dey', title: 'PhD student', email: 'ad2837@bath.ac.uk', image: 'assets/img/avirup.jpg', url: 'avirup-dey'}
 - {name: 'Alexey Kravets', title: 'PhD student', email: 'ak3095@bath.ac.uk', image: 'assets/img/alexey.jpg', url: 'alexey-kravets'}
 - {name: 'Jiahui Li', title: 'PhD student', email: 'jl4616@bath.ac.uk', image: 'assets/img/jiahui.jpg', url: 'jiahui-li'}
+- {name: 'Ziqi Li', title: 'PhD student', email: 'zl2611@bath.ac.uk', image: 'assets/img/ziqi.jpg', url: 'ziqi-li'}
 - {name: 'Yunpeng Xiao', title: 'PhD student', email: 'yx2172@bath.ac.uk', image: 'assets/img/yunpeng.jpg', url: 'yunpeng-xiao'}
 - {name: 'Yudi Zhang', title: 'PhD student', email: 'yz4582@bath.ac.uk', image: 'assets/img/yudi.jpg', url: 'yudi-zhang'}
 - {name: 'Zilin Zhang', title: 'PhD student', email: 'zz2169@bath.ac.uk', image: 'assets/img/zilin.jpg', url: 'zilin-zhang'}
